@@ -1,10 +1,10 @@
 @echo off
 cd /d %~dp0
 
-set DISCORD_BOT_TOKEN=MTA0MjQwNTgzODE1MDY5NzA0MA.GqIVVy.EfP7aye7uGZD4tptMZKK--DGmk26ngmB2yrUDg
+set DISCORD_BOT_TOKEN=MTA0MjQwNTgzODE1MDY5NzA0MA.G_Wsn4.Tdx_S81__sMgegcZ6akGTGFE1fm8rtw3OVt1P0
 set BCDICE_API_URL=https://bcdice.onlinesession.app
 set IGNORE_ERROR=
-REM set BCDICE_PASSWORD=TrickToTpass2
+REM set BCDICE_PASSWORD=Trickster5961
 REM set BCDICE_API_SECONDARY=https://bcdice.kazagakure.net
 REM set BCDICE_DEFAULT_SYSTEM=DiceBot
 REM set BCDICE_MENTION_MODE=1
